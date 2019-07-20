@@ -98,7 +98,7 @@ body {
     font-family: 'Ubuntu', sans-serif;
     line-height: 1.6em;
     background-attachment: fixed;
-    background-image: url("/screen_2x.jpg");
+    background-image: url("screen_2x.jpg");
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
