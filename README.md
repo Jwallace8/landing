@@ -1,3 +1,4 @@
 # landing
 landing page
-https://github.com/Jwallace8/landing
+
+https://jwallace8.github.io/landing/
