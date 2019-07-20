@@ -200,7 +200,7 @@ body {
 
 .story-image {
     width: 50%;
-    height: 500px;
+    max-width: 500px;
 }
 
 .story-text {
@@ -356,7 +356,7 @@ body {
     .story-text {
         height: 200px;
     }
-    .story-img {
+    .story-image {
         height: 200px;
     }
     .box {
